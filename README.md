@@ -15,7 +15,7 @@
 
 
 <a href="https://open.spotify.com/user/e90fe4zsndbm6xoe2t7t8kogf?si=WaLKpwvWTle0btle2qPb6g">
-  <img align="left" alt="arzit width="22px" src=https://www.freepnglogos.com/uploads/spotify-logo-png/spotify-download-logo-30.png" />
+  <img align="left" alt="arzit" width="22px" src="https://www.freepnglogos.com/uploads/spotify-logo-png/spotify-download-logo-30.png" />
 </a>
 
 ![](https://visitor-badge.glitch.me/badge?page_id=arzitPanda.arzitPanda)
